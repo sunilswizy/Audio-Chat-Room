@@ -1,0 +1,22 @@
+.controls-container {
+  display: flex;
+  gap: 20px;
+  margin-top: 40px;
+}
+
+.permissions-container {
+  display: flex;
+  align-items: center;
+  height: 60px;
+  gap: 10px;
+}
+
+.participants-container {
+  display: flex;
+  gap: 30px;
+}
+
+.btn-container {
+  display: flex;
+  gap: 10px;
+}

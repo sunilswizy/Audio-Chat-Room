@@ -1,0 +1,23 @@
+.main-container-login {
+  color: black;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 95vh;
+  overflow: hidden;
+  flex-direction: column;
+}
+
+.main-container-login h1 span {
+  color: skyblue;
+}
+
+.other-details-card {
+  margin-top: 15px;
+}
+
+.other-details-card span {
+  font-weight: bold;
+  color: black;
+}

@@ -1,1 +1,1 @@
-Audio chat room like clubhouse, build with react, node and stream. 
+he application is an audio-based chat room platform, similar to Clubhouse, built using React, Node.js, and Stream. It enables real-time communication where users can join, host, and participate in audio discussions on various topics. The platform fosters community engagement by allowing users to connect through voice in an interactive and seamless manner.
